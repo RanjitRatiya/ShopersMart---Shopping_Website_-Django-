@@ -1,0 +1,1 @@
+web: gunicorn ShopersMart - Shopping_Website_(Django).wsgi --log-file -
